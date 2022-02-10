@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(240, 159, 60);
+}
+
+#C {
+    color: rgb(192, 24, 24);
+} 
+
+.Career{
+ list-style-position: inside;
+ text-decoration: underline blue;
+}
+
+#AW{
+    color: rgb(117, 20, 207);
+}
+.AH{
+    list-style-position: inside;
+ text-decoration: underline blue;
+}
+#F{
+    color: forestgreen;
+}
+
+.Film{
+    list-style-position: inside;
+ text-decoration: underline blue;
+}
+#DH{
+    color: magenta;
+}
+
+.Heart{
+    list-style-position: inside;
+ text-decoration: underline blue;
+}
+
+#DS{
+    color: greenyellow;
+}
+
+.Self {
+    list-style-position: inside;
+ text-decoration: underline blue;
+}
+
+/* img {
+    display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+} */
